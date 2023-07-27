@@ -1,4 +1,4 @@
-# 4-Wheeled Bot Project Readme
+# 4-Wheeled Bot Project
 
 ![Car/Bot Image](assets/car.jpg)
 
